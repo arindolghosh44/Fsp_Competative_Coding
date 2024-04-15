@@ -1,0 +1,9 @@
+sliding window:
+
+https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1
+https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/submissions/1227351185/
+https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1227387917/
+
+two pointer
+https://leetcode.com/problems/reverse-string/submissions/1227471229/
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1227492338/
